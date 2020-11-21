@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralsight.Owin.Demo.Hosting", "Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting.csproj", "{2A8ED4D5-F2F9-4976-B8A9-0CECA9218459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pluralsight.Owin.Demo.Tests", "Pluralsight.Owin.Demo.Tests\Pluralsight.Owin.Demo.Tests.csproj", "{55EEED0D-88CA-4411-982F-221525483E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8ED4D5-F2F9-4976-B8A9-0CECA9218459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8ED4D5-F2F9-4976-B8A9-0CECA9218459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8ED4D5-F2F9-4976-B8A9-0CECA9218459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8ED4D5-F2F9-4976-B8A9-0CECA9218459}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55EEED0D-88CA-4411-982F-221525483E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55EEED0D-88CA-4411-982F-221525483E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55EEED0D-88CA-4411-982F-221525483E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55EEED0D-88CA-4411-982F-221525483E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B38975FE-9B48-40BF-8BC8-6120D1A0482B}
+	EndGlobalSection
+EndGlobal
