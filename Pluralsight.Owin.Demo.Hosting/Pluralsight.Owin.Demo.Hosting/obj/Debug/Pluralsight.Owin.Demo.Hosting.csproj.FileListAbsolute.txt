@@ -1,21 +1,20 @@
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\test image 2.jpg
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Pluralsight.Owin.Demo.Hosting.exe.config
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Pluralsight.Owin.Demo.Hosting.exe
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Pluralsight.Owin.Demo.Hosting.pdb
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.Diagnostics.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.dll
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.FileSystems.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.StaticFiles.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Owin.dll
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.xml
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.FileSystems.xml
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.Hosting.xml
-C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\obj\Debug\Pluralsight.Owin.Demo.Hosting.csprojAssemblyReference.cache
+C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.StaticFiles.xml
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\obj\Debug\Pluralsight.Owin.Demo.Hosting.csproj.CopyComplete
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\obj\Debug\Pluralsight.Owin.Demo.Hosting.exe
 C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\obj\Debug\Pluralsight.Owin.Demo.Hosting.pdb
-C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\test image 2.jpg
-C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.FileSystems.dll
-C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.StaticFiles.dll
-C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.FileSystems.xml
-C:\Users\itztu\OneDrive\Desktop\Git Repositories\mvc4_owin_katana\Pluralsight.Owin.Demo.Hosting\Pluralsight.Owin.Demo.Hosting\bin\Debug\Microsoft.Owin.StaticFiles.xml
